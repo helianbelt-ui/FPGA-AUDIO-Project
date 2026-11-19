@@ -1,0 +1,2 @@
+FIR_HP_127tap.vhd,vhdl,xil_defaultlib,../../../../FIR_HP_127tap/sim/FIR_HP_127tap.vhd,
+glbl.v,Verilog,xil_defaultlib,glbl.v

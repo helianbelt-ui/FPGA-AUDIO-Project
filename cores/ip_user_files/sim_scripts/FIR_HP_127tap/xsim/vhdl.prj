@@ -1,0 +1,5 @@
+vhdl xil_defaultlib  \
+"../../../../FIR_HP_127tap/sim/FIR_HP_127tap.vhd" \
+
+# Do not sort compile order
+nosort
